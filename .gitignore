@@ -1,0 +1,15 @@
+*.class
+
+*.jar
+*.war
+*.nar
+*.ear
+*.iml
+*.phd
+*.trc
+*.json
+*.pom
+
+.idea/*
+out/*
+target/*
